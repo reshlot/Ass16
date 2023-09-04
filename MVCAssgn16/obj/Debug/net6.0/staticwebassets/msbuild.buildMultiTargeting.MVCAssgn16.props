@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCAssgn16.props" />
+</Project>
